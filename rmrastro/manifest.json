@@ -1,0 +1,16 @@
+{
+     "name": "RM RASTRO",
+     "short_name": "RM RASTRO",
+     "theme_color": "#00b8a9",
+     "background_color": "#000000",
+     "display": "standalone",
+     "Scope": ".",
+     "start_url": ".",
+     "icons": [
+       {
+         "src": "./images/pwaImage512.png",
+         "sizes": "512x512",
+         "type": "image/png"
+       }
+     ]
+   }
